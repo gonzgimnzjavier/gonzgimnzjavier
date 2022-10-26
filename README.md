@@ -1,5 +1,4 @@
 ## Javier González Giménez 👋
----
 
 ### Estudiante de 1º DAM  🖥 ⌨ 🖱
 
