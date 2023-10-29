@@ -16,7 +16,7 @@ Bienvenido a mi perfil de GitHub.
 
 
 
-⚡ Información Addicional: Nací el 28/07/2003 en Vigo.
+⚡ Información adicional: Nací el 28/07/2003 en Vigo.
 
 ![Descripción de mi imagen](imagen.png)
 
