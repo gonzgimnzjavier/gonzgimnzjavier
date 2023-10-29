@@ -1,7 +1,19 @@
-## Javier González Giménez 👋
+# ¡Hola, soy [Tu Nombre]! 👋
 
-### Estudiante de 2º DAM  🖥 ⌨ 🖱
+Bienvenido a mi perfil de GitHub. 
 
-![Imagen Intro](https://cdn.dribbble.com/users/1035257/screenshots/4835179/2.gif)
+🔍 Actualmente estoy trabajando en [nombre del proyecto o empresa].
+🌱 Estoy aprendiendo [tecnología/lenguaje que estés aprendiendo].
+💬 Pregunta-me sobre [tema de interés].
+📫 Cómo contactarme: [tu dirección de correo electrónico o red social].
+⚡ Dato curioso: [algo interesante sobre ti].
 
+## Mis estadísticas de GitHub
+[insertar widget de estadísticas de GitHub]
+
+## Tecnologías y herramientas que utilizo
+- [Tecnología 1]
+- [Tecnología 2]
+- [Tecnología 3]
+... y más.
 
