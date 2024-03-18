@@ -1,6 +1,6 @@
 # ![sprites](sprite2.png) ¡Hola, soy Javier González! 👋
 
-## Bienvenido a mi perfil de GitHub. 
+### Bienvenido a mi perfil de GitHub. 
 ![banner](BANNER.png)
 
 ---
