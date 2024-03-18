@@ -20,7 +20,7 @@ Soy un desarrollador de aplicaciones multiplataforma especializado en tecnologí
 | **Frameworks Backend**       | ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot)                                                                      |
 
 ## 📚 Educación
-- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.<br>
   ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022-2024_
 
 ## 📞 Contacto
