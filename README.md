@@ -8,7 +8,7 @@
 ## 🌐 Sobre mí
 Soy un desarrollador de aplicaciones multiplataforma especializado en tecnologías como Java y Flutter. Me apasiona crear soluciones tecnológicas innovadoras.
 
-## 💻 Habilidades Técnicas
+## 💻 Conocimientos Técnicos
 
 | Categoría               | Tecnologías                                                                                                                                                             |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
