@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Sobre mí
-Soy un desarrollador de aplicaciones multiplataforma.
+Recién egresado en el mundo del desarrollo de aplicaciones multiplataforma, estoy iniciando mi camino en la industria con una mente abierta y un fuerte deseo de aprender.
 
 ## 💻 Conocimientos Técnicos
 
