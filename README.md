@@ -24,6 +24,6 @@ Soy un desarrollador de aplicaciones multiplataforma.
   ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022-2024_
 
 ## 📞 Contacto
-[![Linkedin](link.webp)](https://www.linkedin.com/in/javier-gonz%C3%A1lez-gim%C3%A9nez-a72426280/) <br> [![GMAIL](Gmail_icon_(2020).svg.webp)]([javigongimenez@gmail.com](mailto:javigongimenez@gmail.com))
+[![Linkedin](link.webp)](https://www.linkedin.com/in/javier-gonz%C3%A1lez-gim%C3%A9nez-a72426280/) <br> [![GMAIL](Gmail_icon.png)](mailto:javigongimenez@gmail.com)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gonzgimnzjavier&show_icons=true)
