@@ -24,7 +24,7 @@ Soy un desarrollador de aplicaciones multiplataforma especializado en tecnologí
   ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022-2024_
 
 ## 📞 Contacto
-- **LinkedIn**: [enlace]
+- [![Linkedin](URL_DE_LA_IMAGEN)](URL_DEL_ENLACE)
 - **Correo Electrónico**: [tuemail@example.com]
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gonzgimnzjavier&show_icons=true)
