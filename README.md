@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Sobre mí
-Soy un desarrollador de aplicaciones multiplataforma especializado en tecnologías como Java y Flutter. Me apasiona crear soluciones tecnológicas innovadoras.
+Soy un desarrollador de aplicaciones multiplataforma.
 
 ## 💻 Conocimientos Técnicos
 
