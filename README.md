@@ -23,4 +23,4 @@ Breve descripción del proyecto, tecnologías usadas y cualquier detalle relevan
 - **LinkedIn**: [enlace]
 - **Correo Electrónico**: [tuemail@example.com]
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gonzgimnzjavier&show_icons=true)
