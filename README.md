@@ -54,6 +54,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
+## 🛠️ Formación Laboral
+- Desarrollo web utilizando PHP y el framework Laravel.<br>
+  ![CEBEM](CEBEM.png) ***SILVALVI SL***, _2024_
+
+
 ## 📚 Educación
 - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.<br>
   ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022-2024_
