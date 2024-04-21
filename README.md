@@ -3,7 +3,12 @@
 ![banner](BANNER.png)
 
 ---
+
+###
+
 <img src="https://raw.githubusercontent.com/gonzgimnzjavier/gonzgimnzjavier/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
