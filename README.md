@@ -4,9 +4,7 @@
 ---
 
 ###
-
-<img src="https://raw.githubusercontent.com/gonzgimnzjavier/gonzgimnzjavier/output/snake.svg" alt="Snake animation" />
-
+![snake animation](https://github.com/gonzgimnzjavier/gonzgimnzjavier/blob/output/github-contribution-grid-snake2.svg)
 ###
 
 ###
