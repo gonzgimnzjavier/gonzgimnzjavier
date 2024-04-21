@@ -7,16 +7,46 @@
 ## 🌐 Sobre mí
 <p align="left"'>🪲 Desarrollando bugs desde 2022.<br>🧠 Actualmente estoy aprendiendo php y laravel.<br>👾 En mi tiempo libre disfruto jugando JRPG y leyendo comics de DC, mangas o viendo anime.</p>
 
-## 💻 Conocimientos Técnicos
-
-| Categoría               | Tecnologías                                                                                                                                                             |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Lenguajes de Programación** ||
-| **Sistemas Operativos**      | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)                                                         |
-| **Control de Versiones**     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)                                                                                                                         |
-| **Bases de Datos**           | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)                                                       |
-| **Frameworks Frontend**      | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio)                     |
-| **Frameworks Backend**       | ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot)                                                                      |
+## 💻 Lenguajes y herramientas que utilizo
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
 
 ## 📚 Educación
 - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.<br>
