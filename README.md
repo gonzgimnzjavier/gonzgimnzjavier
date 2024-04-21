@@ -11,14 +11,7 @@
 
 | Categoría               | Tecnologías                                                                                                                                                             |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Lenguajes de Programación** |
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /> |
+| **Lenguajes de Programación** ||
 | **Sistemas Operativos**      | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)                                                         |
 | **Control de Versiones**     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)                                                                                                                         |
 | **Bases de Datos**           | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)                                                       |
