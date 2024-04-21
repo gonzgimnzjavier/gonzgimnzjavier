@@ -51,7 +51,7 @@
   ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022-2024_
 
 ## 📞 Contacto
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/javier-gonz%C3%A1lez-gim%C3%A9nez-a72426280/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
