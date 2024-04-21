@@ -11,7 +11,17 @@
 
 | Categoría               | Tecnologías                                                                                                                                                             |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Lenguajes de Programación** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php) |
+| **Lenguajes de Programación** | <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+### |
 | **Sistemas Operativos**      | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)                                                         |
 | **Control de Versiones**     | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)                                                                                                                         |
 | **Bases de Datos**           | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)                                                       |
