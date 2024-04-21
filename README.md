@@ -4,7 +4,7 @@
 ---
 
 ###
-![snake animation](https://github.com/gonzgimnzjavier/gonzgimnzjavier/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/gonzgimnzjavier/gonzgimnzjavier/output/github-contribution-grid-snake-dark.svg)
 ###
 
 ###
