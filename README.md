@@ -3,6 +3,9 @@
 ![banner](BANNER.png)
 
 ---
+<img src="https://raw.githubusercontent.com/gonzgimnzjavier/gonzgimnzjavier/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🌐 Sobre mí
 <p align="left"'>🪲 Desarrollando bugs desde 2022.<br>🧠 Actualmente estoy aprendiendo php y laravel.<br>👾 En mi tiempo libre disfruto jugando JRPG y leyendo comics de DC, mangas o viendo anime.</p>
