@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Sobre mí
-Recién egresado en el mundo del desarrollo de aplicaciones multiplataforma, estoy iniciando mi camino en la industria con una mente abierta y un fuerte deseo de aprender.
+<p align="left"'>🪲 Desarrollando bugs desde 2022<br>🧠 Actualmente estoy aprendiendo php y laravel<br>👾 En mi tiempo libre disfruto jugando JRPG y leyendo comics de DC o manga/anime.</p>
 
 ## 💻 Conocimientos Técnicos
 
