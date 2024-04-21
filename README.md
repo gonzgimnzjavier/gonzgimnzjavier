@@ -56,7 +56,7 @@
 
 ## 🛠️ Formación Laboral
 - Desarrollo web utilizando PHP y el framework Laravel.<br>
-  ![CEBEM](SILVALI.png) *** SILVALVI SL***, _2024_
+  ![CEBEM](SILVALI.png)  ***SILVALVI SL***, _2024_
 
 
 ## 📚 Educación
