@@ -15,7 +15,7 @@
 ## 🌐 Sobre mí
 <p align="left"'>🪲 Desarrollando bugs desde 2022.<br>🧠 Actualmente estoy aprendiendo php y laravel.<br>👾 En mi tiempo libre disfruto jugando JRPGs y leyendo comics de DC, mangas o viendo anime.</p>
 
-## 💻 Lenguajes y herramientas que utilizo
+## 💻 Lenguajes y herramientas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
