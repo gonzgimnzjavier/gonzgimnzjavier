@@ -51,6 +51,17 @@
   ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022-2024_
 
 ## 📞 Contacto
-[![Linkedin](link.webp)](https://www.linkedin.com/in/javier-gonz%C3%A1lez-gim%C3%A9nez-a72426280/) <br> [![GMAIL](Gmail_icon_(2020).svg.webp)](mailto:javigongimenez@gmail.com)
+<div align="left">
+  <a href="https://www.linkedin.com/in/javier-gonz%C3%A1lez-gim%C3%A9nez-a72426280/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+###
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gonzgimnzjavier&show_icons=true)
