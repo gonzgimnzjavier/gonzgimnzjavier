@@ -13,7 +13,7 @@
 
 
 ## 🌐 Sobre mí
-<p align="left"'>🪲 Desarrollando bugs desde 2022.<br>🧠 Actualmente estoy aprendiendo php y laravel.<br>👾 En mi tiempo libre disfruto jugando JRPGs y leyendo comics de DC, mangas o viendo anime.</p>
+<p align="left"'>🐝 Desarrollando bugs desde 2022.<br>🧠 Actualmente estoy aprendiendo php y laravel.<br>👾 En mi tiempo libre disfruto jugando JRPGs y leyendo comics de DC, mangas o viendo anime.</p>
 
 ## 💻 Lenguajes y herramientas
 <div align="center">
