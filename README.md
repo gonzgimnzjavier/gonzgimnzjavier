@@ -1,21 +1,20 @@
-### ¡Hola 👋 Bienvenido a mi perfil de GitHub! 
+### 👋 Welcome to my GitHub profile!
 ![banner](BANNER.png)
 
 ---
 
-###
+### 
 ![Snake animation](https://raw.githubusercontent.com/gonzgimnzjavier/gonzgimnzjavier/output/github-contribution-grid-snake-dark.svg)
-###
+### 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gonzgimnzjavier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzgimnzjavier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+## 🌐 About Me
+<p align="left">🐝 Developing bugs since 2022.<br>🧠 Currently learning PHP and Laravel.<br>👾 In my free time, I enjoy playing JRPGs and reading DC comics, manga, or watching anime.</p>
 
-## 🌐 Sobre mí
-<p align="left"'>🐝 Desarrollando bugs desde 2022.<br>🧠 Actualmente estoy aprendiendo php y laravel.<br>👾 En mi tiempo libre disfruto jugando JRPGs y leyendo comics de DC, mangas o viendo anime.</p>
-
-## 💻 Lenguajes y herramientas
+## 💻 Languages and Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -54,34 +53,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-## 🛠️ Formación Laboral
-- Desarrollo web utilizando PHP y el framework Laravel.<br>
-  ![CEBEM](SILVALI.png)  ***SILVALVI SL***, _2024_
+## 🛠️ Work Experience
+- Web development using PHP and the Laravel framework.<br>
+  ![SILVALVI](SILVALI.png)  ***SILVALVI SL***, _2024_
 
-
-## 📚 Educación
-- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.<br>
+## 📚 Education
+- Advanced Technician in Multiplatform Application Development.<br>
   ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022-2024_
 
-## 📞 Contacto
+## 📞 Contact
 <div align="left">
   <a href="https://www.linkedin.com/in/javier-gonz%C3%A1lez-gim%C3%A9nez-a72426280/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="javigongimenez@gmail.com" target="_blank">
+  <a href="mailto:javigongimenez@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/javi_gongimenez?igsh=YXMxODVwYnZoMWFs&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="@javigongimenez" target="_blank">
+  <a href="https://twitter.com/javigongimenez" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
-
-
-###
-
-
-
-###
