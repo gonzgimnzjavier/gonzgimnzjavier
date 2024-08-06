@@ -12,7 +12,7 @@
 </div>
 
 ## 🌐 About Me
-<p align="left">🐝 Developing bugs since 2022.<br>🧠 Currently learning PHP and Laravel.<br>👾 In my free time, I enjoy playing JRPGs and reading DC comics, manga, or watching anime.</p>
+<p align="left">🐝 Developing since 2022.<br>🧠 Currently learning PHP and Laravel.<br>👾 In my free time, I enjoy playing JRPGs and reading DC comics, manga, or watching anime.</p>
 
 ## 💻 Languages and Tools
 <div align="center">
