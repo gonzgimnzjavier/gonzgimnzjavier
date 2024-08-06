@@ -1,5 +1,5 @@
 ### 👋 Welcome to my GitHub profile!
-![banner](BANNER.png)
+![banner](sandra haro.png)
 
 ---
 
