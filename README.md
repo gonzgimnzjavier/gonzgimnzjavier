@@ -1,5 +1,5 @@
 ### 👋 Welcome to my GitHub profile!
-![banner](sandra haro.png)
+![banner](ban.png)
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## 🛠️ Work Experience
 - Web development using PHP and the Laravel framework.<br>
-  ![SILVALVI](SILVALI.png)  ***SILVALVI SL***, _2024_
+  ![SILVALVI](SILVALI.png)  ***SILVALVI SL***, _APRIL 2024-JULY 2024_
 
 ## 📚 Education
 - Advanced Technician in Multiplatform Application Development.<br>
