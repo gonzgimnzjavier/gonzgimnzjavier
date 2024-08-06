@@ -58,6 +58,8 @@
   ![SILVALVI](SILVALI.png)  ***SILVALVI SL***, _APRIL 2024-JULY 2024_
 
 ## 📚 Education
+- Advanced Technician in WEB Application Development.<br>
+  ![CEBEM](CEBEM.png) ***Colegio de Fomento Montecastelo***, _2024_
 - Advanced Technician in Multiplatform Application Development.<br>
   ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022-2024_
 
