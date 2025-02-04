@@ -86,7 +86,7 @@
 
 ## 📚 Education
 - Higher Level Vocational Training in Web Application Development  
-  <img src="monte.png" alt="montecastelo" style="width:55px;"> ***Colegio de Fomento Montecastelo***, _2024_
+  <img src="monte.png" alt="montecastelo" style="width:55px;"> ***Colegio de Fomento Montecastelo***, _2024-2025_
 - Higher Level Vocational Training in Multiplatform Application Development  
   ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022–2024_
 
