@@ -5,25 +5,37 @@
 
 ### 
 ![Snake animation](https://raw.githubusercontent.com/gonzgimnzjavier/gonzgimnzjavier/output/github-contribution-grid-snake-dark.svg)
-### 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gonzgimnzjavier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzgimnzjavier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ## 🌐 About Me
-<p align="left">🐝 Developing since 2022.<br>🧠 Currently learning PHP and Laravel.<br>👾 In my free time, I enjoy playing JRPGs and reading DC comics, manga, or watching anime.</p>
+<p align="left">
+  🐝 Developing since 2022.<br>
+  🧠 Currently learning **Frontend Development (JS & React)**.<br>
+  👾 In my free time, I enjoy playing JRPGs and reading DC comics, manga, or watching anime.
+</p>
 
 ## 💻 Languages and Tools
 <div align="center">
+  <!-- JavaScript & React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <!-- Otros lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
+  <!-- PHP & Laravel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <!-- Otras herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
@@ -55,13 +67,15 @@
 
 ## 🛠️ Work Experience
 - Web development using PHP and the Laravel framework.<br>
-  ![SILVALVI](SILVALI.png) <br> ***SILVALVI SL***, _APRIL 2024-SEPTEMBER 2024_
+  ![SILVALVI](SILVALI.png)  
+  ***SILVALVI SL***, _APRIL 2024-SEPTEMBER 2024_
 
 ## 📚 Education
-- Advanced Technician in WEB Application Development <br>
-<img src="monte.png" alt="montecastelo" style="width:55px;"> ***Colegio de Fomento Montecastelo***, _2024_ 
-- Advanced Technician in Multiplatform Application Development.<br>
-  ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022-2024_
+- Higher Level Vocational Training in Web Application Development  
+  <img src="monte.png" alt="montecastelo" style="width:55px;"> ***Colegio de Fomento Montecastelo***, _2024_
+- Higher Level Vocational Training in Multiplatform Application Development  
+  ![CEBEM](CEBEM.png) ***CPR CEBEM***, _2022–2024_
+
 
 ## 📞 Contact
 <div align="left">
