@@ -1,5 +1,5 @@
 ### 👋 Welcome to my GitHub profile!
-![banner](ban.png)
+![banner](gif.gif)
 
 ---
 
