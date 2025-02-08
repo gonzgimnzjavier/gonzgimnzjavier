@@ -93,10 +93,10 @@
 
 ## 📞 Contact
 <div align="left">
-  <a href="https://www.linkedin.com/in/javier-gonz%C3%A1lez-gim%C3%A9nez-a72426280/" target="_blank">
+  <a href="https://www.linkedin.com/in/javier2g/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:javigongimenez@gmail.com" target="_blank">
+  <a href="mailto:javiergonzalezgimenez2003@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   
